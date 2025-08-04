@@ -66,7 +66,6 @@ function getChainlinkDataFeedLatestAnswer(address oracle) external view returns 
 ✔️ Demonstrates live price fetching via **Chainlink decentralized oracle network**<br> 
 ✔️ Uses **Polygon mainnet** as the underlying EVM network<br> 
 ✔️ Connects **smart contracts and frontend** using ethers.js<br> 
-✔️ Fully functional price oracle dashboard built with **React, Tailwind, and ethers.js**<br> 
 
 ---
 
