@@ -18,7 +18,7 @@ The frontend replicates the visual style of professional analytics platforms lik
 
 ## 🌍 **Live Assets & Oracle Contracts**
 
-- 🔗 **Frontend:** [Oracles](https://prismatic-salmiakki-286dd3.netlify.app/](https://scintillating-salmiakki-6baa75.netlify.app/)
+- 🔗 **Frontend:** [Oracles](https://prismatic-salmiakki-286dd3.netlify.app/)
 - 🔥 **Helper Contract:** [0x5143816ed83fb77550e4a65f960fbe5d9979789b](https://polygonscan.com/address/0x5143816ed83fb77550e4a65f960fbe5d9979789b) (Polygon Mainnet)
 
   
